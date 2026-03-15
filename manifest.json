@@ -1,0 +1,26 @@
+{
+  "name": "원예시설 조사 평면도",
+  "short_name": "조사평면도",
+  "description": "에이플러스손해사정 원예시설 현장조사 평면도 작성 도구",
+  "start_url": "/aplus-map/",
+  "scope": "/aplus-map/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16191f",
+  "theme_color": "#1e2230",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
